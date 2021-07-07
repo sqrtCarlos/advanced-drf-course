@@ -1,4 +1,4 @@
-# DRF advance course 
+# Advanced DRF course 
 
 ## Installation
 1. Clone this repo.
